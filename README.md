@@ -344,9 +344,9 @@ Muestra la comparación de las estadísticas entre sedes, generaciones de estudi
 
 2. El título de la sección en que se encuentra el usuario.
 
-3. Un elemento search para búsqueda directa.
+3. Un elemento search de búsqueda directa.
 
-4. Un ícono navegable que muestra al usuario si tiene mensajes.
+4. Un ícono navegable que indica al usuario si tiene mensajes.
 
 5. La imagen y nombre del usuario.
 
@@ -358,13 +358,13 @@ Se mantiene en cada ventana que se abre cuando el usuario da "click" en alguna o
 
 1. Menú hamburguesa que al activarse muestra el perfil del usuario.
 
-2. Cifra de número total de estuadiantes actuales.
+2. Cifra del número total de estuadiantes actuales.
 
-3. Cifra de número total actual de estuadiantes egresadas.
+3. Cifra del número total actual de estuadiantes egresadas.
 
-4. Cifra de número total de estuadiantes de UX actual.
+4. Cifra del número total actual de estuadiantes de UX.
 
-5. Cifra de número total de estuadiantes de Font End actual.
+5. Cifra de número total actual de estuadiantes de Front End.
 
 6. Un botón "generaciones" el cual despliega opciones de selección de la generación de la cual se quiere ver la data. 
 
@@ -376,4 +376,4 @@ La data de varía si el usuario cambia a alguna generación.
 
 2. Al dar "click" en cualquiera de esas tres opciones, se abren tres botones desplegables: Sede, Generación y Sprint. Cada uno de ellos con sus respectivas opciones para que el usuario elija que quiere comparar.  
 
-3. Una vez que el usuario ha seleccionado por ejemplo: Notas Hse - Sede - Lima y Arequipa, se mostrará la estadística comparativa de acuerdo a lo pedido. 
+3. Una vez que el usuario ha seleccionado por ejemplo: "Notas Hse - Sede - Lima y Arequipa", se mostrará la estadística comparativa de acuerdo a lo seleccionado.
