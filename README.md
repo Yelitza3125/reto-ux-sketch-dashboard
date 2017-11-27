@@ -37,25 +37,25 @@ Muestra las opciones generales y el perfil del usuario.
 
 ![Dashboard-2](assets/images/dashboard-2.jpg)
 
-La tercera ventana muestran en la parte superior se indica al usuario que está en "Dashboard", la opción "Workspace" es para que el usuario pueda insertar su propia gráfica y la opción "configuración", para modificar su perfil.
+La tercera ventana muestra en la parte superior que está en "Dashboard", la opción "Workspace" es para que el usuario pueda insertar su propia gráfica y la opción "Configuración", para modificar su perfil.
 
-El perfil del usuario a un lado, con sus respectivas opciones:
+El perfil del usuario al lado izquierdo, contiene las siguientes opciones:
 
-1. Home: Le lleva al inicio de la página.
+1. Home: Lleva al inicio de la página.
 
-2. Sedes: se despliegan las opciones de cada sede de Laboratoria.
+2. Sedes: Se despliegan las opciones de cada sede de Laboratoria.
 
-3. Estadísticas: Acceso directo a estadísticas
+3. Estadísticas: Acceso directo a estadísticas.
 
 4. Tablas: Acceso directo a las tablas de cada página.
 
-5. Calendario: Un calendario personalizado
+5. Calendario: Un calendario personalizado.
 
-6. Mensajes: Mensajes que se puede mandar entre usuarios.
+6. Mensajes: Mensajes que pueden mandarse entre usuarios.
 
-7. Log put: Salir de su cuenta.
+7. Log out: Salir de su cuenta.
 
-En la parte principal están las opciones generales.
+En la parte central de la ventana están las opciones generales.
 
 Cuando el usuario selecciona una sede en específico, el fondo de las opciones generales cambia de color y de inmediato los datos devueltos serán de esa sede en específico. 
 
