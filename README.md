@@ -1,5 +1,7 @@
 # Reto de código N° 3
 
+## Descripción del Proyecto:
+
 El proyecto consiste en la elaboración del sketch del dashboard de Laboratoria. Una herramienta utilizada por profesores, training managers, directores y gerentes de Laboratoria para ver rápidamente qué está pasando en el salón de clases.
 
 ## Primera ventana:
@@ -11,8 +13,9 @@ Ventana de inicio de sesión y/o registro.
 
 ![Dashboard-0](assets/images/dashboard-0.jpg)
 
-En esta primera vetana se le pide al usuario ingresar su nombre de usuario y contraseña para acceder. También tiene la opción de que se guarde su contraseña y la ayuda en caso no recuerde su contraseña. También hay un enlace para registrarse. 
-Abajo se mantiene el footer con navegación global, que Laboratoria mantiene en su página principal.
+En esta primera vetana se le pide al usuario ingresar su nombre de usuario y contraseña para acceder. También tiene la opción de que se guarde su contraseña, para no tener que ingresarla todas las veces. Hay una opción debajo del botón de ingresar, en caso de que el usuario haya olvidado su contraseña y también hay un enlace para registrarse. 
+En la parte inferior hay un footer con navegación global, que Laboratoria mantiene en su página principal.
+
 
 ## Segunda ventana:
 
