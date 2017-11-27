@@ -234,9 +234,9 @@ Muestra las estadísticas de las notas tecnicas de las estudiantes.
 
 2. El título de la sección en que se encuentra el usuario.
 
-3. Un elemento search para búsqueda directa.
+3. Un elemento search de búsqueda directa.
 
-4. Un ícono navegable que muestra al usuario si tiene mensajes.
+4. Un ícono navegable que indica al usuario si tiene mensajes.
 
 5. La imagen y nombre del usuario.
 
@@ -248,19 +248,19 @@ Se mantiene en cada ventana que se abre cuando el usuario da "click" en alguna o
 
 1. Menú hamburguesa que al activarse muestra el perfil del usuario.
 
-2. Cifra de número total de estuadiantes actuales.
+2. Cifra del número total de estuadiantes actuales.
 
-3. Cifra de número total actual de estuadiantes egresadas.
+3. Cifra del número total actual de estuadiantes egresadas.
 
-4. Cifra de número total de estuadiantes de UX actual.
+4. Cifra del número total actual de estuadiantes de UX.
 
-5. Cifra de número total de estuadiantes de Font End actual.
+5. Cifra del número total actual de estuadiantes de Front End.
 
 6. Un botón "generaciones" el cual despliega opciones de selección de la generación de la cual se quiere ver la data. 
 
 #### Opciones:
 
-La data de varía si el usuario cambia a alguna generación. 
+La data varía si el usuario cambia a alguna generación. 
 
 1. Promedio de notas general.
 
@@ -287,9 +287,9 @@ Muestra las estadísticas a nivel general, es decir, las cuatro sedes juntas.
 
 2. El título de la sección en que se encuentra el usuario.
 
-3. Un elemento search para búsqueda directa.
+3. Un elemento search de búsqueda directa.
 
-4. Un ícono navegable que muestra al usuario si tiene mensajes.
+4. Un ícono navegable que indica al usuario si tiene mensajes.
 
 5. La imagen y nombre del usuario.
 
@@ -301,13 +301,13 @@ Se mantiene en cada ventana que se abre cuando el usuario da "click" en alguna o
 
 1. Menú hamburguesa que al activarse muestra el perfil del usuario.
 
-2. Cifra de número total de estuadiantes actuales.
+2. Cifra del número total de estuadiantes actuales.
 
-3. Cifra de número total actual de estuadiantes egresadas.
+3. Cifra del número total actual de estuadiantes egresadas.
 
-4. Cifra de número total de estuadiantes de UX actual.
+4. Cifra del número actual total de estuadiantes de UX.
 
-5. Cifra de número total de estuadiantes de Font End actual.
+5. Cifra de número total actual de estuadiantes de Front End.
 
 6. Un botón "generaciones" el cual despliega opciones de selección de la generación de la cual se quiere ver la data. 
 
