@@ -118,7 +118,7 @@ La data varía si el usuario cambia a alguna generación.
 
 #### Descripción:
 
-Muestra las estadísticas de las notas por Sprint y cada unidad, de las estudiantes.
+Muestra las estadísticas de las notas por Sprint y por cada unidad de las estudiantes.
 
 
 ![Dashboard-4](assets/images/dashboard-4.jpg)
@@ -143,13 +143,13 @@ Se mantiene en cada ventana que se abre cuando el usuario da "click" en alguna o
 
 1. Menú hamburguesa que al activarse muestra el perfil del usuario.
 
-2. Cifra de número total de estuadiantes actuales.
+2. Cifra del número total de estuadiantes actuales.
 
-3. Cifra de número total actual de estuadiantes egresadas.
+3. Cifra del número total actual de estuadiantes egresadas.
 
-4. Cifra de número total de estuadiantes de UX actual.
+4. Cifra del número total actual de estuadiantes de UX.
 
-5. Cifra de número total de estuadiantes de Font End actual.
+5. Cifra del número total actual de estuadiantes de Front End.
 
 6. Un botón "generaciones" el cual despliega opciones de selección de la generación de la cual se quiere ver la data. 
 
