@@ -26,7 +26,8 @@ Ventada de saludo al usuario.
 
 ![Dashboard-1](assets/images/dashboard-1.jpg)
 
-Una vez que el usuario ha ingresado a su cuenta, se abre otra ventana donde un círculo para apareciendo a la velocidad que carga la página. Cuando se llega a cien se completa el círculo y aparece el texto "Bienvenido2, más el nombre del usuario.
+Una vez que el usuario ha ingresado a su cuenta, se abre otra ventana donde un círculo va apareciendo conforme a la velocidad con que carga la página. Cuando se llega a 100% se completa el círculo y aparece el texto "Bienvenido", más el nombre del usuario. Luego de unos segundos de transición se muestra la siguiente ventana.
+
 
 ## Tercera ventana:
 
