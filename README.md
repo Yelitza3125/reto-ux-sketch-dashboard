@@ -4,7 +4,56 @@
 
 El proyecto consiste en la elaboración del sketch del dashboard de Laboratoria. Una herramienta utilizada por profesores, training managers, directores y gerentes de Laboratoria para ver rápidamente qué está pasando en el salón de clases.
 
-## Primera ventana:
+##Objetivo
+Desarrollar el prototipo de un dashboard para los trending managers de Laboratoria.
+
+##Desarrollo
+Para la resolución del reto seguimos las estapas de DCU(Diseño Centrado en el Usuario).
+
+##Etapas DCU (Diseño Centrado en el Usuario):
+
+A. Descubrimiento e Investigación
+Actividades:
+1.- Entrevista con usuarios.
+El usuario entrevistado fue Alejandra, trainding manager de Laboratoria-Lima.
+Ella acotó que necesitaba una palataforma sencilla de utilizar y que brindara información sobre el desempeño de las alumnas, de todas las cedes.
+Donde por defecto se muestre la última data de la sede en la que ella labora. 
+
+B. Síntesis y definición
+
+Actividades:
+1.- Definición del problema: 
+Los training managers de Laboratoria no cuentan con una plataforma donde tener la información detallada de las estudiantes (Notas, número de alumnas, ranking)
+
+
+2.- Definición de User persona:
+
+Nombre: Martha Rivas
+Edad: 27 años.
+Profesión: Training Manager.
+Frase de vida: "Lo principal es una buena organización"
+Escenario: Martha trabaja hace 3 años en Laboratoria. Durante los primeros años han manejado la data de las alumnas a través de documentos de excel, pero a la larga se iban acumulando. Como una persona a la que le gusta mucho el orden, se le hizo difícil sintetizar esa informació. Además de que la manera de mostrar los datos era confusa.
+
+Metas:
+- Crear un proyecto de emprendimiento social.
+- Trabajar con estudiantes de otros países.
+- Generar un cambio en la educación de su país.
+
+Frustracciones:
+
+- Los datos que se acumulan todos los días y no logra sintetizarlos.
+- La presión por los el ritmo de trabajo.
+
+Necesidades :
+
+- Una plataforma donde pueda obtener toda la información que necesita de primera mano.
+- Un sistema que le ayude a organizarse.
+- Una plataforma que le ayude a mantenerse comunicada con los otros training managers. 
+
+
+C. Prototipado:
+
+### Primera ventana:
 
 #### Descripción:
 
